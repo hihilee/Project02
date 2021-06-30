@@ -13,6 +13,7 @@ public class FirstClass {
 
         System.out.println("Another conflict from local master branch");
         System.out.println("Hilal");
+        System.out.println("Here are the some changes from local feature branch");
 
         
         
